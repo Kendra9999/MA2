@@ -76,10 +76,12 @@ The generated supervoxels for the LiQA data and the CHAOS-MRI dataset are placed
 
 
 ### Training
+We use WANDB to log the training process. Please log in your WANDB account and input your entity name via `--entity` argument.
+
 Please run the following command to train the model:
 ```
 cd MA2
-python train.py --config configs/liver.yaml --auto-resume
+python train.py --config configs/liver.yaml --entity your-wandb-entity --auto-resume
 ```
 
 ### Evaluation
