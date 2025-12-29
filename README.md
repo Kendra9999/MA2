@@ -2,7 +2,7 @@
 
 This repository officially hosts the algorithm submitted by the CitiSJTU team to the CARE-Liver track of the CARE 2025 challenge (https://zmic.org.cn/care_2025/track4/).
 
-Our algorithm won the Best Performance Award of CARE-Liver Segmentation (Non-contrast).
+Our algorithm won the ***Best Performance Award of CARE-Liver Segmentation (Non-contrast)***.
 
 ![](./figs/liseg-noncontrast-award.jpg)
 
