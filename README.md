@@ -47,9 +47,11 @@ Our method uses the pretrained model of [Anatomix](https://github.com/neel-dey/a
 ### Data preparation
 
 1. LiQA data
+
 Please follow the instructions in the [CARE-Liver track](https://zmic.org.cn/care_2025/track4/) to download the LiQA dataset and place it in the `Data/CARE-Liver/` directory.
 
 2. CHAOS-MRI data
+
 Download the CHAOS-MRI dataset from the [CHAOS challenge](https://chaos.grand-challenge.org/) and place it in the `Data/CHAOS_MRI/` directory.
 
 Please run the following command to convert the DICOM images to NIfTI format:
