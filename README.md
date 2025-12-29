@@ -84,8 +84,8 @@ cd MA2
 python train.py --config configs/liver.yaml --entity your-wandb-entity --auto-resume
 ```
 
-### Evaluation
-Please run the following command to evaluate the model:
+### Inference
+Please run the following command for inference:
 ```
 cd MA2
 
