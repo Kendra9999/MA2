@@ -1,0 +1,10 @@
+torch==2.1.2
+torchvision==0.16.2
+monai==1.4.0
+opencv-python==4.11.0.86
+elasticdeform
+numpy==1.26.4
+einops==0.8.1
+tqdm
+scikit-learn==1.6.1
+wandb
