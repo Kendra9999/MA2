@@ -32,6 +32,8 @@ Accurate liver segmentation and fibrosis staging play a pivotal role in Artifici
 - `einops==0.8.1`
 - `tqdm`
 - `scikit-learn==1.6.1`
+- `wandb`
+
 
 ### Install
 ```
