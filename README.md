@@ -79,7 +79,7 @@ The generated supervoxels for the LiQA data and the CHAOS-MRI dataset are placed
 Please run the following command to train the model:
 ```
 cd MA2
-python train.py
+python train.py --config configs/liver.yaml --auto-resume
 ```
 
 ### Evaluation
