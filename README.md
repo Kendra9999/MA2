@@ -61,7 +61,7 @@ python Data_preprocess/CHAOS_MRI/dcm_png_to_nii.py
 
 3. Supervoxel generation
 
-For supervoxel generation, please follow the instructions in https://github.com/sha168/ADNet to compile the supervoxel generation tool. 
+For supervoxel generation, please follow the instructions in [AD-Net](https://github.com/sha168/ADNet) to compile the supervoxel generation tool. 
 
 After compiling the supervoxel generation tool, please run the following command to generate supervoxels for the LiQA data and the CHAOS-MRI dataset:
 ```
